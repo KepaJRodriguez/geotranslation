@@ -31,8 +31,8 @@ Usage
 
 
 Input format: text file with two columns separated by a tab.
-1 First column: Identifier of the geographic term
-2 Second column: Geographic term
+      1 First column: Identifier of the geographic term
+      2 Second column: Geographic term
 
 Output: text file with a column for the identifier and a column for each pair language:translation
 

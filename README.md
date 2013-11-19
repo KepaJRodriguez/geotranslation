@@ -30,8 +30,8 @@ java -jar geotranslation-0.0.1-SNAPSHOT-jar-with-dependencies.jar input_file
 ...
 
 Input format: text file with two columns separated by a tab.
-* First column: Identifier of the geographic term
-* Second column: Geographic term
+- First column: Identifier of the geographic term
+- Second column: Geographic term
 
 Output: text file with a column for the identifier and a column for each pair language:translation
 

@@ -17,8 +17,8 @@ public class AskGeonames {
 
 		HashMap<String, HashMap<String, String>> translations = 
 				new HashMap<String, HashMap<String, String>>();
-		WebService.setUserName("kepajrodriguez"); // add your Geocodes username here
-	//	WebService.setUserName("demo"); // add your Geocodes username here
+
+		WebService.setUserName("demo"); // add your Geocodes username here
 		
 		/*
 		 * List of selected languages A list of languages relevant for the EHRI
